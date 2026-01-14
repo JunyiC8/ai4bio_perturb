@@ -4,6 +4,11 @@ This repository contains notebooks for analyzing tumor perturbation, spatial tra
 
 ## Contents
 
+- **`astro-scanpy.ipynb`**
+  Scanpy-based single-cell analysis for astrocyte dataset
+  Reference: https://scanpy.readthedocs.io/en/stable/index.html
+  Output: https://1drv.ms/f/c/be6fca71af648e68/IgBIV_njwPE0RpMlvsCDoxK5Ad6VMCFix7K5hh8vvWWgLFk?e=NxtOEO 
+
 - **`tumor.ipynb`**  
   Tumor perturbation and spatial analysis  
   Reference: https://www.cell.com/cell/fulltext/S0092-8674(25)00197-7
@@ -23,3 +28,5 @@ This repository contains notebooks for analyzing tumor perturbation, spatial tra
 ## Data
 
 - SSPsyGene (UCSC): https://sspsygene.ucsc.edu/data/
+  - astrocyte dataset: https://download.brainimagelibrary.org/0c/bd/0cbd479c521afff9/
+  - tumor dataset: https://download.brainimagelibrary.org/0c/bd/0cbd479c521afff9/extras/
