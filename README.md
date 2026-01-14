@@ -5,8 +5,8 @@ This repository contains notebooks for analyzing tumor perturbation, spatial tra
 ## Contents
 
 - **`astro-scanpy.ipynb`**
-  Scanpy-based single-cell analysis for astrocyte dataset
-  Reference: https://scanpy.readthedocs.io/en/stable/index.html
+  Scanpy-based single-cell analysis for astrocyte dataset  
+  Reference: https://scanpy.readthedocs.io/en/stable/index.html  
   Output: https://1drv.ms/f/c/be6fca71af648e68/IgBIV_njwPE0RpMlvsCDoxK5Ad6VMCFix7K5hh8vvWWgLFk?e=NxtOEO 
 
 - **`tumor.ipynb`**  
